@@ -7,8 +7,6 @@ https://packaging.python.org/en/latest/distributing.html
 https://github.com/pypa/sampleproject
 """
 
-from __future__ import absolute_import
-
 # Always prefer setuptools over distutils
 from setuptools import setup
 # To use a consistent encoding
