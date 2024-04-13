@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals, print_function
 
 """Returns IP address ownership and location information based on MaxMind's GeoLite databases"""
 
